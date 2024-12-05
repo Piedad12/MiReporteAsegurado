@@ -1,0 +1,4 @@
+// archivo de transformación
+
+1. Filtrar datos duplicados de clientes in ('DNI', 'RUC1O', 'RUC20')
+2. Reubicar Datos 
